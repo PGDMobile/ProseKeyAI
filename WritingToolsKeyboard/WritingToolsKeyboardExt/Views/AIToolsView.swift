@@ -1,5 +1,5 @@
 import SwiftUI
-import MarkdownUI
+//import MarkdownUI
 
 struct AIToolsView: View {
     @ObservedObject var vm: AIToolsViewModel
